@@ -16,16 +16,6 @@ Participants are required to:
 
 ---
 
-## 📂 Project Structure
-binus-techfest-2025/
-│── README.md
-│── dataset/
-│   ├── *.csv
-│── EDA_Bandana_Brawijaya University_Final.ipynb
-│── requirements.txt
-
----
-
 ## 🛠️ Tools & Libraries
 The main tools and libraries used in this project include:
 - Python
@@ -75,9 +65,9 @@ Detailed visualizations and explanations can be found directly in the analysis n
 
 ## 👥 Team
 This project was completed as a team effort by:
-- Team Member 1
-- Team Member 2
-- Team Member 3
+- Nathanael Komang Bagus Prakarsa
+- Bonfilio Renato Lawaziduhu Fau
+- Adinda Sekaring Wana
 
 ---
 
